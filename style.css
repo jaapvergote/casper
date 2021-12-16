@@ -56,6 +56,12 @@ height: 100%;
 p {
 color: white;
 font-size: 2vw;
+text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 3vw;
 }
 
 #wrapper {
@@ -68,6 +74,13 @@ font-size: 2vw;
   display: relative;
   align-items: center;
   justify-content: center;
+}
+
+.bodygif {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 1vw;
 }
 
 .button6{
