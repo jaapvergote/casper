@@ -1,5 +1,8 @@
 .centered {
   text-align: center;
+
+}
+p {
   color: white;
   textsize: 100;
 }
