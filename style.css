@@ -28,6 +28,12 @@ font-size: 2vw;
   justify-content: center;
 }
 
+#gif {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .button6{
  display:inline-block;
  padding:0.7em 1.4em;
