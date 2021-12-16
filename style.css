@@ -61,7 +61,6 @@ text-align: center;
 
 h1 {
   color: white;
-  font-size: 3vw;
 }
 
 #wrapper {
@@ -76,7 +75,7 @@ h1 {
   justify-content: center;
 }
 
-.bodygif {
+#bodygif {
   position: absolute;
   top: 8px;
   right: 16px;
